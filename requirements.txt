@@ -97,4 +97,4 @@ watchdog==2.1.6
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.2
-wordcloud @ file:///C:/Users/Raj%20Kiran%20DVS/Desktop/Deployment/wordcloud-1.8.1-cp39-cp39-win_amd64.whl
+
