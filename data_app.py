@@ -6,7 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
-from wordcloud import WordCloud,STOPWORDS
+from WordCloud import WordCloud,STOPWORDS
 import create_wordcloud
 
 
